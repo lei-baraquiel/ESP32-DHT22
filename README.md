@@ -1,5 +1,7 @@
 # 🌡️ ESP32 WiFi 2 DHT22 Web Server Monitoring
 
+**NOTE: This guide does not contain the process of calibrating the DHT22 Sensors**
+
 A simple, beginner-friendly project to monitor two DHT22 Temperature and Humidity sensors using an ESP32 as a Web Server.
 
 ## 📖 Full Documentation
