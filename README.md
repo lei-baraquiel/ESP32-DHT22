@@ -1,4 +1,4 @@
-# 🏎️ ESP32 WiFi 2 DHT22 Web Server Monitoring
+# 🌡️ ESP32 WiFi 2 DHT22 Web Server Monitoring
 
 A simple, beginner-friendly project to monitor two DHT22 Temperature and Humidity sensors using an ESP32 as a Web Server.
 
